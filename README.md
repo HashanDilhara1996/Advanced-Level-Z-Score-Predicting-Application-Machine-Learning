@@ -1,7 +1,7 @@
 # Advanced-Level-Z-Score-Predicting-Application-Machine-Learning
 There are two file in this folder.
-1. project folder(Zpredictor)
-2. exported MySql database(Dump20210723)
+1. Project folder(Zpredictor)
+2. Exported MySql database(Dump20210723)
 
 how to run:
 1. Download and extract the zipped project file and open the project file in pycharm.
